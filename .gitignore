@@ -11,3 +11,9 @@
 .sim/
 *.runs/
 *.gen/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.gen/
