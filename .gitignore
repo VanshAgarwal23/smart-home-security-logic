@@ -1,0 +1,13 @@
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.Xil/
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+*.runs/
+*.gen/
